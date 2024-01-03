@@ -10,6 +10,7 @@ Welcome to Mission Planner. This Privacy Policy explains how we collect, use, an
 
 ### User Authentication Information
 When you use the App, we may collect and process your authentication information, including your name and email address. This information is collected solely for the purpose of user authentication and account management.
+Please contact artulidis@gmail.com if you wish to delete your account
 
 ### External Storage Permissions
 The App may request access to external storage on your device to perform specific functions. This access is required for saving and retrieving user-generated content.
